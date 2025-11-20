@@ -1,3 +1,3 @@
 # StopWatch
 StopWatch timer using Html, Css &amp; JavaScript.
-Live - https://vishnuvardhanu.github.io/StopWatch/
+Linkedin : https://www.linkedin.com/in/tamil-selvam-276b47391
